@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <pid>P101</pid>
+    <id>PT 1</id>
+    <Hid>pt@gmail.com</Hid>
+    <diseasename>sdfd</diseasename>
+    <Drugname>dsfg</Drugname>
+    <Genericname>dsf</Genericname>
+    <Method>--Select--</Method>
+    <Form>--Select--</Form>
+    <Quantity>23</Quantity>
+    <Frequency>243</Frequency>
+    <Duration>dfsd</Duration>
+    <Instructiopn>sdfsf</Instructiopn>
+    <Attachment1>sreelekaaaaaa.doc</Attachment1>
+    <Attachment2 />
+    <Attachment3 />
+    <Attachment4 />
+    <Comments />
+  </Table>
+  <Table>
+    <pid>P102</pid>
+    <id>PT 1</id>
+    <Hid>pt@gmail.com</Hid>
+    <diseasename>wte</diseasename>
+    <Drugname>wet</Drugname>
+    <Genericname>wert</Genericname>
+    <Method>--Select--</Method>
+    <Form>--Select--</Form>
+    <Quantity>324</Quantity>
+    <Frequency>34</Frequency>
+    <Duration>fdg</Duration>
+    <Instructiopn>fdsgsd</Instructiopn>
+    <Attachment1 />
+    <Attachment2 />
+    <Attachment3 />
+    <Attachment4 />
+    <Comments />
+  </Table>
+  <Table>
+    <pid>P103</pid>
+    <id>PT 1</id>
+    <Hid>pt@gmail.com</Hid>
+    <diseasename>ewr</diseasename>
+    <Drugname>t</Drugname>
+    <Genericname>wewet</Genericname>
+    <Method>Oral</Method>
+    <Form>Tablets</Form>
+    <Quantity>34ml</Quantity>
+    <Frequency>2 </Frequency>
+    <Duration>2 days</Duration>
+    <Instructiopn>After Meal</Instructiopn>
+    <Attachment1>sreelekaaaaaa.doc</Attachment1>
+    <Attachment2 />
+    <Attachment3 />
+    <Attachment4 />
+    <Comments />
+  </Table>
+</NewDataSet>

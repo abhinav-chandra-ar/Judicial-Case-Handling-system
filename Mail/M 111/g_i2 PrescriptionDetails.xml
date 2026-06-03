@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <pid>P1</pid>
+    <id>gas_i2</id>
+    <Drugname>asf</Drugname>
+    <Genericname>asf</Genericname>
+    <Method>--Select--</Method>
+    <Form>--Select--</Form>
+    <Quantity>3</Quantity>
+    <Frequency>32</Frequency>
+    <Duration>sgd</Duration>
+    <Instructiopn>dsg</Instructiopn>
+    <Attachment1 />
+    <Attachment2 />
+    <Attachment3 />
+    <Attachment4 />
+    <Comments>dsg</Comments>
+    <xmlfolder>gas_i2 PrescriptionDetails</xmlfolder>
+  </Table>
+</NewDataSet>

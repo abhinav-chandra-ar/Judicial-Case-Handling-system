@@ -1,0 +1,6 @@
+0- Not approved by admin(waiting)
+1- accpet by court
+2- Reject by court
+3- Closed by police
+4-Request for Registerd as case by police
+5. Petition registered as case by police

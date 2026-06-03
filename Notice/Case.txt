@@ -1,0 +1,7 @@
+0- Case Registerd by police
+1- assign advocate by petitioner
+2- assign adocate by respondent
+3- approve by advocate
+4- approve by court
+5- reject by court
+6. assign for hearning

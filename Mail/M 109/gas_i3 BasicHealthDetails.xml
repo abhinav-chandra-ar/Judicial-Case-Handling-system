@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <hospitalid>vcn_D_1</hospitalid>
+    <id>gas_i3</id>
+    <Patientname>dsf dsf</Patientname>
+    <Birth>12/15/2009</Birth>
+    <Gender>Male</Gender>
+    <Height>32Feet5325Inch</Height>
+    <Weight>235</Weight>
+    <Status>Single</Status>
+    <Implants>No</Implants>
+    <Bloodtype>B-</Bloodtype>
+    <Pressuresys>5</Pressuresys>
+    <Pressuredia>53</Pressuredia>
+    <Cholestrol>53</Cholestrol>
+    <xmlfolder>gas_i3Basic Health Details</xmlfolder>
+  </Table>
+</NewDataSet>

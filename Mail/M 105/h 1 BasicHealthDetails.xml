@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <hospitalid>ss@gmail.com</hospitalid>
+    <id>h 1</id>
+    <Patientname>safaf</Patientname>
+    <Birth>2/2/2010</Birth>
+    <Gender>f</Gender>
+    <Height>150cm</Height>
+    <xmlfolder>h 1 BasicHealthDetails</xmlfolder>
+  </Table>
+</NewDataSet>

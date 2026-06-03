@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <hospitalid>cosmo123</hospitalid>
+    <id>c 3</id>
+    <Patientname>chinju s</Patientname>
+    <Birth>25/05/1983</Birth>
+    <Gender>Female</Gender>
+    <Height>6Feet2Inch</Height>
+    <Weight>67</Weight>
+    <Status>Single</Status>
+    <Implants>Yes</Implants>
+    <Bloodtype>B+</Bloodtype>
+    <Pressuresys>80</Pressuresys>
+    <Pressuredia>160</Pressuredia>
+    <Cholestrol>230</Cholestrol>
+  </Table>
+</NewDataSet>

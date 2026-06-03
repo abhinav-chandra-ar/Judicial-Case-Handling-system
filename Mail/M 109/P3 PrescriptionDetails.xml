@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <pid>P4</pid>
+    <id>P3</id>
+    <Drugname>ffff</Drugname>
+    <Genericname>fffffffff</Genericname>
+    <Method>--Select--</Method>
+    <Form>--Select--</Form>
+    <Quantity>44</Quantity>
+    <Frequency>44</Frequency>
+    <Duration>44d</Duration>
+    <Instructiopn>dsggggg</Instructiopn>
+    <Attachment1>public string uploa1.doc</Attachment1>
+    <Attachment2>public string uploa1.doc</Attachment2>
+    <Attachment3>public string uploa1.doc</Attachment3>
+    <Attachment4 />
+    <Comments>trturu</Comments>
+    <xmlfolder />
+  </Table>
+</NewDataSet>
